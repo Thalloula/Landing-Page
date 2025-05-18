@@ -19,6 +19,18 @@ N/A
 - style.css        # Layout
 - README.md        # Project documentation
 
+## Color Palette
+
+| Color Name         | Hex      |
+|--------------------|----------|
+| Olive Green        | #6a7d41  |
+| Deep Olive         | #49592d  |
+| Burnt Orange       | #c87128  |
+| Ochre              | #b68a2c  |
+| Sandy Beige        | #f6e7c1  |
+| Mediterranean Blue | #5a8ca4  |
+| Soft White         | #fffdf8  |
+
 - ## Future Improvements
 
 - Change picture
